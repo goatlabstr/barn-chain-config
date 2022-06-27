@@ -1,0 +1,25 @@
+{
+  "RPC_URL": "https://rpc.mainnet.desmos.network",
+  "REST_URL": "https://api.mainnet.desmos.network",
+  "EXPLORER_URL": "https://www.mintscan.io/desmos",
+  "STAKING_URL": "https://desmos.goatlabs.zone/stake",
+  "NETWORK_NAME": "Desmos",
+  "NETWORK_TYPE": "mainnet",
+  "CHAIN_ID": "desmos-mainnet",
+  "CHAIN_NAME": "desmos",
+  "COIN_DENOM": "DSM",
+  "COIN_MINIMAL_DENOM": "udsm",
+  "COIN_DECIMALS": 6,
+  "PREFIX": "desmos",
+  "COIN_TYPE": 852,
+  "COINGECKO_ID": "desmos",
+  "DEFAULT_GAS": 200000,
+  "GAS_PRICE_STEP_LOW": 0.01,
+  "GAS_PRICE_STEP_AVERAGE": 0.025,
+  "GAS_PRICE_STEP_HIGH": 0.03,
+  "FEATURES": [
+    "ibc-transfer",
+    "cosmwasm",
+    "ibc-go"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "RPC_URL": "https://rpc-akash-ia.notional.ventures",
+  "REST_URL": "https://api-akash-ia.notional.ventures",
+  "EXPLORER_URL": "https://www.mintscan.io/akash",
+  "STAKING_URL": "https://akash.goatlabs.zone/stake",
+  "NETWORK_NAME": "Akash",
+  "NETWORK_TYPE": "mainnet",
+  "CHAIN_ID": "akashnet-2",
+  "CHAIN_NAME": "akash-network",
+  "COIN_DENOM": "AKT",
+  "COIN_MINIMAL_DENOM": "uakt",
+  "COIN_DECIMALS": 6,
+  "PREFIX": "akash",
+  "COIN_TYPE": 118,
+  "COINGECKO_ID": "akash-network",
+  "DEFAULT_GAS": 200000,
+  "GAS_PRICE_STEP_LOW": 0.01,
+  "GAS_PRICE_STEP_AVERAGE": 0.025,
+  "GAS_PRICE_STEP_HIGH": 0.03,
+  "FEATURES": [
+    "ibc-transfer",
+    "cosmwasm",
+    "ibc-go"
+  ]
+}
