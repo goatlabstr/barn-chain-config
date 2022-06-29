@@ -1,5 +1,5 @@
 {
-  "RPC_URL": "https://agoric-rpc.polkachu.com",
+  "RPC_URL": "https://rpc.agoric.sgtstake.com",
   "REST_URL": "https://api.agoric.sgtstake.com",
   "EXPLORER_URL": "https://www.mintscan.io/agoric",
   "STAKING_URL": "https://agoric.goatlabs.zone/stake",
