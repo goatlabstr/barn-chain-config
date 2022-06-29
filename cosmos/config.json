@@ -1,6 +1,6 @@
 {
-  "RPC_URL": "https://rpc.cosmos.network",
-  "REST_URL": "https://api.cosmos.network",
+  "RPC_URL": "https://rpc.cosmoshub.pupmos.network",
+  "REST_URL": "https://api.cosmoshub.pupmos.network",
   "EXPLORER_URL": "https://www.mintscan.io/cosmos",
   "STAKING_URL": "https://cosmos.goatlabs.zone/stake",
   "NETWORK_NAME": "Cosmos Hub",
