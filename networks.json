@@ -1,17 +1,62 @@
 {
-  "juno": "https://juno.goatlabs.zone",
-  "cosmoshub": "https://cosmoshub.goatlabs.zone",
-  "osmosis": "https://osmosis.goatlabs.zone",
-  "akash": "https://akash.goatlabs.zone",
-  "agoric": "https://agoric.goatlabs.zone",
-  "kujira": "https://kujira.goatlabs.zone",
-  "cudos": "https://cudos.goatlabs.zone",
-  "axelar": "https://axelar.goatlabs.zone",
-  "cerberus": "https://cerberus.goatlabs.zone",
-  "chihuahua": "https://chihuahua.goatlabs.zone",
-  "crescent": "https://crescent.goatlabs.zone",
-  "desmos": "https://desmos.goatlabs.zone",
-  "omniflixhub": "https://omniflixhub.goatlabs.zone",
-  "stargaze": "https://stargaze.goatlabs.zone",
-  "assetmantle": "https://assetmantle.goatlabs.zone"
+  "juno": {
+    "url": "https://juno.goatlabs.zone",
+    "mobileSupport": true
+  },
+  "cosmoshub": {
+    "url": "https://cosmoshub.goatlabs.zone",
+    "mobileSupport": true
+  },
+  "osmosis": {
+    "url": "https://osmosis.goatlabs.zone",
+    "mobileSupport": true
+  },
+  "akash": {
+    "url": "https://akash.goatlabs.zone",
+    "mobileSupport": true
+  },
+  "agoric": {
+    "url": "https://agoric.goatlabs.zone",
+    "mobileSupport": true
+  },
+  "kujira": {
+    "url": "https://kujira.goatlabs.zone",
+    "mobileSupport": false
+  },
+  "cudos": {
+    "url": "https://cudos.goatlabs.zone",
+    "mobileSupport": false
+  },
+  "axelar": {
+    "url": "https://axelar.goatlabs.zone",
+    "mobileSupport": true
+  },
+  "cerberus": {
+    "url": "https://cerberus.goatlabs.zone",
+    "mobileSupport": false
+  },
+  "chihuahua": {
+    "url": "https://chihuahua.goatlabs.zone",
+    "mobileSupport": true
+  },
+  "crescent": {
+    "url": "https://crescent.goatlabs.zone",
+    "mobileSupport": false
+  },
+  "desmos": {
+    "url": "https://desmos.goatlabs.zone",
+    "mobileSupport": true
+  },
+  "omniflixhub": {
+    "url": "https://omniflixhub.goatlabs.zone",
+    "mobileSupport": false
+  },
+  "stargaze": {
+    "url": "https://stargaze.goatlabs.zone",
+    "mobileSupport": true
+  },
+  "assetmantle": {
+    "url": "https://assetmantle.goatlabs.zone",
+    "mobileSupport": false
+  }
 }
