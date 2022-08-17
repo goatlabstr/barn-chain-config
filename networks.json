@@ -58,5 +58,9 @@
   "assetmantle": {
     "url": "https://assetmantle.goatlabs.zone",
     "mobileSupport": false
+  },
+  "passage": {
+    "url": "https://passage.goatlabs.zone",
+    "mobileSupport": false
   }
 }
