@@ -62,5 +62,9 @@
   "passage": {
     "url": "https://passage.goatlabs.zone",
     "mobileSupport": false
+  },
+  "teritori": {
+    "url": "https://teritori.goatlabs.zone",
+    "mobileSupport": false
   }
 }
