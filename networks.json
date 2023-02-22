@@ -66,5 +66,9 @@
   "teritori": {
     "url": "https://teritori.goatlabs.zone",
     "mobileSupport": false
+  },
+  "jackal": {
+    "url": "https://jackal.goatlabs.zone",
+    "mobileSupport": false
   }
 }
