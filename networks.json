@@ -62,5 +62,9 @@
   "passage": {
     "url": "https://passage.goatlabs.zone",
     "mobileSupport": false
+  },
+  "jackal": {
+    "url": "https://jackal.goatlabs.zone",
+    "mobileSupport": false
   }
 }
