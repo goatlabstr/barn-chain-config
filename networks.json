@@ -1,74 +1,74 @@
 {
   "juno": {
-    "url": "https://juno.goatlabs.zone",
+    "url": "https://juno.goats.place",
     "mobileSupport": true
   },
   "cosmoshub": {
-    "url": "https://cosmoshub.goatlabs.zone",
+    "url": "https://cosmoshub.goats.place",
     "mobileSupport": true
   },
   "osmosis": {
-    "url": "https://osmosis.goatlabs.zone",
+    "url": "https://osmosis.goats.place",
     "mobileSupport": true
   },
   "akash": {
-    "url": "https://akash.goatlabs.zone",
+    "url": "https://akash.goats.place",
     "mobileSupport": true
   },
   "agoric": {
-    "url": "https://agoric.goatlabs.zone",
+    "url": "https://agoric.goats.place",
     "mobileSupport": true
   },
   "kujira": {
-    "url": "https://kujira.goatlabs.zone",
+    "url": "https://kujira.goats.place",
     "mobileSupport": false
   },
   "cudos": {
-    "url": "https://cudos.goatlabs.zone",
+    "url": "https://cudos.goats.place",
     "mobileSupport": false
   },
   "axelar": {
-    "url": "https://axelar.goatlabs.zone",
+    "url": "https://axelar.goats.place",
     "mobileSupport": true
   },
   "cerberus": {
-    "url": "https://cerberus.goatlabs.zone",
+    "url": "https://cerberus.goats.place",
     "mobileSupport": false
   },
   "chihuahua": {
-    "url": "https://chihuahua.goatlabs.zone",
+    "url": "https://chihuahua.goats.place",
     "mobileSupport": true
   },
   "crescent": {
-    "url": "https://crescent.goatlabs.zone",
+    "url": "https://crescent.goats.place",
     "mobileSupport": false
   },
   "desmos": {
-    "url": "https://desmos.goatlabs.zone",
+    "url": "https://desmos.goats.place",
     "mobileSupport": true
   },
   "omniflixhub": {
-    "url": "https://omniflixhub.goatlabs.zone",
+    "url": "https://omniflixhub.goats.place",
     "mobileSupport": false
   },
   "stargaze": {
-    "url": "https://stargaze.goatlabs.zone",
+    "url": "https://stargaze.goats.place",
     "mobileSupport": true
   },
   "assetmantle": {
-    "url": "https://assetmantle.goatlabs.zone",
+    "url": "https://assetmantle.goats.place",
     "mobileSupport": false
   },
   "passage": {
-    "url": "https://passage.goatlabs.zone",
+    "url": "https://passage.goats.place",
     "mobileSupport": false
   },
   "teritori": {
-    "url": "https://teritori.goatlabs.zone",
+    "url": "https://teritori.goats.place",
     "mobileSupport": false
   },
   "jackal": {
-    "url": "https://jackal.goatlabs.zone",
+    "url": "https://jackal.goats.place",
     "mobileSupport": false
   }
 }
