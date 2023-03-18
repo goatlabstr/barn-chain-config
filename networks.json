@@ -1,70 +1,66 @@
 {
   "juno": {
-    "url": "https://juno.goatlabs.zone",
+    "url": "https://wallet.goats.place/juno",
     "mobileSupport": true
   },
   "cosmoshub": {
-    "url": "https://cosmoshub.goatlabs.zone",
+    "url": "https://wallet.goats.place/cosmoshub",
     "mobileSupport": true
   },
   "osmosis": {
-    "url": "https://osmosis.goatlabs.zone",
+    "url": "https://wallet.goats.place/osmosis",
     "mobileSupport": true
   },
   "akash": {
-    "url": "https://akash.goatlabs.zone",
+    "url": "https://wallet.goats.place/akash",
     "mobileSupport": true
   },
   "agoric": {
-    "url": "https://agoric.goatlabs.zone",
+    "url": "https://wallet.goats.place/agoric",
     "mobileSupport": true
   },
   "kujira": {
-    "url": "https://kujira.goatlabs.zone",
+    "url": "https://wallet.goats.place/kujira",
     "mobileSupport": false
   },
   "cudos": {
-    "url": "https://cudos.goatlabs.zone",
+    "url": "https://wallet.goats.place/cudos",
     "mobileSupport": false
   },
   "axelar": {
-    "url": "https://axelar.goatlabs.zone",
+    "url": "https://wallet.goats.place/axelar",
     "mobileSupport": true
   },
-  "cerberus": {
-    "url": "https://cerberus.goatlabs.zone",
-    "mobileSupport": false
-  },
   "chihuahua": {
-    "url": "https://chihuahua.goatlabs.zone",
+    "url": "https://wallet.goats.place/chihuahua",
     "mobileSupport": true
   },
   "crescent": {
-    "url": "https://crescent.goatlabs.zone",
+    "url": "https://wallet.goats.place/crescent",
     "mobileSupport": false
   },
   "desmos": {
-    "url": "https://desmos.goatlabs.zone",
+    "url": "https://wallet.goats.place/desmos",
     "mobileSupport": true
   },
   "omniflixhub": {
-    "url": "https://omniflixhub.goatlabs.zone",
+    "url": "https://wallet.goats.place/omniflixhub",
     "mobileSupport": false
   },
   "stargaze": {
-    "url": "https://stargaze.goatlabs.zone",
+    "url": "https://wallet.goats.place/stargaze",
     "mobileSupport": true
   },
   "assetmantle": {
-    "url": "https://assetmantle.goatlabs.zone",
+    "url": "https://wallet.goats.place/assetmantle",
     "mobileSupport": false
   },
   "passage": {
-    "url": "https://passage.goatlabs.zone",
+    "url": "https://wallet.goats.place/passage",
     "mobileSupport": false
   },
   "jackal": {
-    "url": "https://jackal.goatlabs.zone",
+    "url": "https://wallet.goats.place/jackal",
     "mobileSupport": false
   }
 }
